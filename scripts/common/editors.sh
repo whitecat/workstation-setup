@@ -14,10 +14,10 @@ echo
 echo "Other editors are available in this script."
 echo "Uncomment what you want."
 # brew install --cask macdown
-# brew install --cask sublime-text
+brew install --cask sublime-text
 # brew install --cask textmate
 # brew install --cask macvim
-# brew install --cask jetbrains-toolbox --force # guard against pre-installed jetbrains-toolbox
+brew install --cask rubymine
 # brew install --cask atom
 
 set -e
