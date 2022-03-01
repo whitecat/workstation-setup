@@ -17,7 +17,6 @@ echo "Uncomment what you want."
 brew install --cask sublime-text
 # brew install --cask textmate
 # brew install --cask macvim
-brew install --cask rubymine
 # brew install --cask atom
 
 set -e

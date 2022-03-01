@@ -33,9 +33,9 @@ dockutil --add /Applications/iTerm.app
 # Force Preference Refresh
 killall -u $USER cfprefsd
 
-echo "Configuring Rectangle"
-cp files/com.knollsoft.Rectangle.plist ~/Library/Preferences/com.knollsoft.Rectangle.plist
-open /Applications/Rectangle.app
+# echo "Configuring Rectangle"
+# cp files/com.knollsoft.Rectangle.plist ~/Library/Preferences/com.knollsoft.Rectangle.plist
+# open /Applications/Rectangle.app
 
-echo "Configuring FlyCut"
-open /Applications/Flycut.app
+# echo "Configuring FlyCut"
+# open /Applications/Flycut.app

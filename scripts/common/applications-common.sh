@@ -7,8 +7,8 @@ echo "Installing applications"
 
 # Utilities
 
-brew install --cask flycut
-brew install --cask rectangle
+# brew install --cask flycut
+# brew install --cask rectangle
 
 # Browsers
 
