@@ -17,6 +17,8 @@ sudo -K
 sudo true;
 clear
 
+MY_DIR="$(dirname "$0")"
+
 # Note: Homebrew needs to be set up first
 source ${MY_DIR}/scripts/common/homebrew.sh
 
